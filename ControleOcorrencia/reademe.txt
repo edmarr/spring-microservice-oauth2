@@ -1,0 +1,14 @@
+get authentication  POST
+	{
+		"username": "admin",
+		"password": "12345"
+	}
+
+
+
+send request with authentication POST
+{
+	"descricao": "4 KUYREARGT description OIJUIOUION",
+	"email": "edmardosreis@gmail.com",
+	"emailDestinatario": "edmardosreis@icloud.com"
+}
